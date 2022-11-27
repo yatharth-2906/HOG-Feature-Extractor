@@ -1,0 +1,16 @@
+﻿  main_HOG.cpp
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(38,43): warning C4838: conversion from 'int' to 'int8_t' requires a narrowing conversion
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(38,43): warning C4309: 'initializing': truncation of constant value
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(38,48): warning C4838: conversion from 'int' to 'int8_t' requires a narrowing conversion
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(38,48): warning C4309: 'initializing': truncation of constant value
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(38,53): warning C4838: conversion from 'int' to 'int8_t' requires a narrowing conversion
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(38,53): warning C4309: 'initializing': truncation of constant value
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(66,15): warning C4244: '=': conversion from 'double' to 'int8_t', possible loss of data
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(69,41): warning C4244: '=': conversion from 'double' to 'int8_t', possible loss of data
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(75,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(78,22): warning C4244: '=': conversion from 'float' to 'int8_t', possible loss of data
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(79,26): warning C4244: '=': conversion from 'float' to 'int8_t', possible loss of data
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(80,26): warning C4244: '=': conversion from 'float' to 'int8_t', possible loss of data
+F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\HOG-Histogram_Of_Oriented _Gradients\main_HOG.cpp(81,34): warning C4244: '=': conversion from 'float' to 'int8_t', possible loss of data
+  HOG-Histogram_Of_Oriented _Gradients.vcxproj -> F:\C++ Project\HOG-Histogram_Of_Oriented _Gradients\x64\Debug\HOG-Histogram_Of_Oriented _Gradients.exe
